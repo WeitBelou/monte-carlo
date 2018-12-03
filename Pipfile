@@ -8,9 +8,8 @@ numpy = "*"
 matplotlib = "*"
 seaborn = "*"
 jupyter = "*"
-pip = "==18.0"
 
 [dev-packages]
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
